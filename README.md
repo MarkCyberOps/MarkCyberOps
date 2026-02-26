@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/mark-t-83a52b145">Mark Tuazon</a>'s IT and Cybersecurity Project Portfolio
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am deeply passionate about cybersecurity and thrive on solving complex challenges through hands-on, practical projects. From vulnerability management initiatives to threat detection and response scenarios, each project allows me to explore and adapt to the constantly evolving cybersecurity landscape. I invite you to review my work to see how I approach strengthening security operations, improving processes, and implementing effective risk mitigation strategies.
 
 
 ## Vulnerability Management Projects
