@@ -10,6 +10,7 @@ I am deeply passionate about cybersecurity and thrive on solving complex challen
 
 ## Threat Hunting and Security Operations
 
+- **[Threat Hunting - The Buyer - Akira DFIR Ransomware Investigation](https://github.com/MarkCyberOps/The-Buyer-Akira-DFIR-Ransomware-Investigation)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MarkCyberOps/Threat_Hunting_Scenario-Tor)**
 
 <hr/>
