@@ -3,15 +3,18 @@
 I am deeply passionate about cybersecurity and thrive on solving complex challenges through hands-on, practical projects. From vulnerability management initiatives to threat detection and response scenarios, each project allows me to explore and adapt to the constantly evolving cybersecurity landscape. I invite you to review my work to see how I approach strengthening security operations, improving processes, and implementing effective risk mitigation strategies.
 
 
+## Threat Hunting and Security Operations
+
+- **[Threat Hunting - The Buyer - Akira DFIR Ransomware Investigation](https://github.com/MarkCyberOps/The-Buyer-Akira-DFIR-Ransomware-Investigation)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MarkCyberOps/Threat_Hunting_Scenario-Tor)**
+
+  
 ## Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/MarkCyberOps/Vulnerability_Management_Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/MarkCyberOps/programmatic-vulnerability-remediations)**
 
-## Threat Hunting and Security Operations
 
-- **[Threat Hunting - The Buyer - Akira DFIR Ransomware Investigation](https://github.com/MarkCyberOps/The-Buyer-Akira-DFIR-Ransomware-Investigation)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/MarkCyberOps/Threat_Hunting_Scenario-Tor)**
 
 <hr/>
 
