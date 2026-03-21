@@ -17,7 +17,7 @@ I am deeply passionate about cybersecurity and thrive on solving complex challen
 
 ## Coding Projects and Tools
 
-- **[STIG Remidiations](https://github.com/MarkCyberOps/STIG-Remidaton)**
+- **[STIG Remidiations](https://github.com/MarkCyberOps/STIG-Remediations)**
 
 
 <hr/>
