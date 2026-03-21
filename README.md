@@ -15,6 +15,10 @@ I am deeply passionate about cybersecurity and thrive on solving complex challen
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/MarkCyberOps/programmatic-vulnerability-remediations)**
 
 
+## Coding Projects and Tools
+
+- **[STIG Remidiations](https://github.com/MarkCyberOps/STIG-Remidaton)**
+
 
 <hr/>
 
